@@ -25759,6 +25759,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Taberu Mangás",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.taberumangas",
+    "apk": "tachiyomi-pt.taberumangas-v1.4.31.apk",
+    "lang": "pt-BR",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Taberu Mangás",
+        "lang": "pt-BR",
+        "id": "3136904121410078242",
+        "baseUrl": "https://taberu.org",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Tankou Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.pt.tankouhentai",
     "apk": "tachiyomi-pt.tankouhentai-v1.4.31.apk",
@@ -26391,10 +26412,10 @@
   {
     "name": "Tachiyomi: MangaPoisk",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangapoisk",
-    "apk": "tachiyomi-ru.mangapoisk-v1.4.9.apk",
+    "apk": "tachiyomi-ru.mangapoisk-v1.4.10.apk",
     "lang": "ru",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
