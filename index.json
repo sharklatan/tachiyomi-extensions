@@ -4548,10 +4548,10 @@
   {
     "name": "Tachiyomi: MANGA Plus by SHUEISHA",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangaplus",
-    "apk": "tachiyomi-all.mangaplus-v1.4.46.apk",
+    "apk": "tachiyomi-all.mangaplus-v1.4.47.apk",
     "lang": "all",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -21201,10 +21201,10 @@
   {
     "name": "Tachiyomi: BacaKomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.bacakomik",
-    "apk": "tachiyomi-id.bacakomik-v1.4.5.apk",
+    "apk": "tachiyomi-id.bacakomik-v1.4.6.apk",
     "lang": "id",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21213,7 +21213,7 @@
         "name": "BacaKomik",
         "lang": "id",
         "id": "4383360263234319058",
-        "baseUrl": "https://bacakomik.co",
+        "baseUrl": "https://bacakomik.me",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -22083,10 +22083,10 @@
   {
     "name": "Tachiyomi: Mangaku",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangaku",
-    "apk": "tachiyomi-id.mangaku-v1.4.5.apk",
+    "apk": "tachiyomi-id.mangaku-v1.4.6.apk",
     "lang": "id",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22095,7 +22095,7 @@
         "name": "Mangaku",
         "lang": "id",
         "id": "5933657200789309472",
-        "baseUrl": "https://mangaku.fun",
+        "baseUrl": "https://mangaku.blog",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -22369,6 +22369,27 @@
         "lang": "id",
         "id": "5845004992097969882",
         "baseUrl": "https://mgkomik.id",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Mirai Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.id.miraiscans",
+    "apk": "tachiyomi-id.miraiscans-v1.4.26.apk",
+    "lang": "id",
+    "code": 26,
+    "version": "1.4.26",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Mirai Scans",
+        "lang": "id",
+        "id": "22762261561670119",
+        "baseUrl": "https://miraiscans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24270,10 +24291,10 @@
   {
     "name": "Tachiyomi: Blackout Comics",
     "pkg": "eu.kanade.tachiyomi.extension.pt.blackoutcomics",
-    "apk": "tachiyomi-pt.blackoutcomics-v1.4.1.apk",
+    "apk": "tachiyomi-pt.blackoutcomics-v1.4.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24900,10 +24921,10 @@
   {
     "name": "Tachiyomi: Izakaya",
     "pkg": "eu.kanade.tachiyomi.extension.pt.izakaya",
-    "apk": "tachiyomi-pt.izakaya-v1.4.32.apk",
+    "apk": "tachiyomi-pt.izakaya-v1.4.33.apk",
     "lang": "pt-BR",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
