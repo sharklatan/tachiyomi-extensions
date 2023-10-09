@@ -11693,13 +11693,13 @@
   {
     "name": "Tachiyomi: Manga Demon",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangademon",
-    "apk": "tachiyomi-en.mangademon-v1.4.5.apk",
+    "apk": "tachiyomi-en.mangademon-v1.4.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
-    "hasChangelog": 0,
+    "hasChangelog": 1,
     "sources": [
       {
         "name": "Manga Demon",
@@ -20634,10 +20634,10 @@
   {
     "name": "Tachiyomi: Manga-FR",
     "pkg": "eu.kanade.tachiyomi.extension.fr.mangafr",
-    "apk": "tachiyomi-fr.mangafr-v1.4.7.apk",
+    "apk": "tachiyomi-fr.mangafr-v1.4.8.apk",
     "lang": "fr",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20646,7 +20646,7 @@
         "name": "Manga-FR",
         "lang": "fr",
         "id": "1656809105675251389",
-        "baseUrl": "https://manga-fr.me",
+        "baseUrl": "https://manga-fr.cc",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21409,21 +21409,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Inazu Manga",
+    "name": "Tachiyomi: YumeKomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.inazumanga",
-    "apk": "tachiyomi-id.inazumanga-v1.4.31.apk",
+    "apk": "tachiyomi-id.inazumanga-v1.4.32.apk",
     "lang": "id",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 1,
-    "hasReadme": 0,
+    "hasReadme": 1,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Inazu Manga",
+        "name": "YumeKomik",
         "lang": "id",
-        "id": "4092752168230839868",
-        "baseUrl": "https://inazumanga.com",
+        "id": "1531820623201689871",
+        "baseUrl": "https://yumekomik.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21705,10 +21705,10 @@
   {
     "name": "Tachiyomi: KomikIndoID",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikindoid",
-    "apk": "tachiyomi-id.komikindoid-v1.4.12.apk",
+    "apk": "tachiyomi-id.komikindoid-v1.4.13.apk",
     "lang": "id",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
