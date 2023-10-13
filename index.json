@@ -21075,10 +21075,10 @@
   {
     "name": "Tachiyomi: Sushi-Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.sushiscan",
-    "apk": "tachiyomi-fr.sushiscan-v1.4.33.apk",
+    "apk": "tachiyomi-fr.sushiscan-v1.4.34.apk",
     "lang": "fr",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
