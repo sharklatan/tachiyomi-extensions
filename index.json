@@ -8700,10 +8700,10 @@
   {
     "name": "Tachiyomi: Cosmic Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.cosmicscans",
-    "apk": "tachiyomi-en.cosmicscans-v1.4.28.apk",
+    "apk": "tachiyomi-en.cosmicscans-v1.4.29.apk",
     "lang": "en",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -8712,7 +8712,7 @@
         "name": "Cosmic Scans",
         "lang": "en",
         "id": "3936594291139725888",
-        "baseUrl": "https://cosmicscans.com",
+        "baseUrl": "https://cosmic-scans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -13289,10 +13289,10 @@
   {
     "name": "Tachiyomi: MangaRolls",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangarolls",
-    "apk": "tachiyomi-en.mangarolls-v1.4.31.apk",
+    "apk": "tachiyomi-en.mangarolls-v1.4.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -13301,7 +13301,7 @@
         "name": "MangaRolls",
         "lang": "en",
         "id": "8884689606148517634",
-        "baseUrl": "https://mangarolls.com",
+        "baseUrl": "https://mangarolls.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25229,27 +25229,6 @@
         "id": "8959585632192744096",
         "baseUrl": "https://minitwoscan.com",
         "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Mizu Mangás",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.mizumangas",
-    "apk": "tachiyomi-pt.mizumangas-v1.4.30.apk",
-    "lang": "pt-BR",
-    "code": 30,
-    "version": "1.4.30",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Mizu Mangás",
-        "lang": "pt-BR",
-        "id": "2812678243743408422",
-        "baseUrl": "https://mizumangas.com.br",
-        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
