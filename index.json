@@ -2834,10 +2834,10 @@
   {
     "name": "Tachiyomi: LANraragi",
     "pkg": "eu.kanade.tachiyomi.extension.all.lanraragi",
-    "apk": "tachiyomi-all.lanraragi-v1.4.14.apk",
+    "apk": "tachiyomi-all.lanraragi-v1.4.15.apk",
     "lang": "all",
-    "code": 14,
-    "version": "1.4.14",
+    "code": 15,
+    "version": "1.4.15",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 1,
@@ -24184,6 +24184,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Akimangá",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.akimanga",
+    "apk": "tachiyomi-pt.akimanga-v1.4.31.apk",
+    "lang": "pt-BR",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Akimangá",
+        "lang": "pt-BR",
+        "id": "4815320064022038290",
+        "baseUrl": "https://akimanga.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Akuma no Tenshi",
     "pkg": "eu.kanade.tachiyomi.extension.pt.akumanotenshi",
     "apk": "tachiyomi-pt.akumanotenshi-v1.4.31.apk",
@@ -24522,10 +24543,10 @@
   {
     "name": "Tachiyomi: Diskus Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.diskusscan",
-    "apk": "tachiyomi-pt.diskusscan-v1.4.34.apk",
+    "apk": "tachiyomi-pt.diskusscan-v1.4.35.apk",
     "lang": "pt-BR",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -25108,6 +25129,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Limbo Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.limboscan",
+    "apk": "tachiyomi-pt.limboscan-v1.4.31.apk",
+    "lang": "pt-BR",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Limbo Scan",
+        "lang": "pt-BR",
+        "id": "785489692920959121",
+        "baseUrl": "https://limboscan.com.br",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Maid Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.maidscan",
     "apk": "tachiyomi-pt.maidscan-v1.4.31.apk",
@@ -25165,27 +25207,6 @@
         "lang": "pt-BR",
         "id": "7865569692125193686",
         "baseUrl": "https://rogmangas.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaVibe",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.mangavibe",
-    "apk": "tachiyomi-pt.mangavibe-v1.4.2.apk",
-    "lang": "pt-BR",
-    "code": 2,
-    "version": "1.4.2",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaVibe",
-        "lang": "pt-BR",
-        "id": "4752791037024226378",
-        "baseUrl": "https://mangavibe.top",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26047,6 +26068,27 @@
         "lang": "pt-BR",
         "id": "2530661012733105383",
         "baseUrl": "https://valkyriescan.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Vórtce Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.vortcescan",
+    "apk": "tachiyomi-pt.vortcescan-v1.4.31.apk",
+    "lang": "pt-BR",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Vórtce Scan",
+        "lang": "pt-BR",
+        "id": "6177334053229518446",
+        "baseUrl": "https://vortcescan.com.br",
         "versionId": 1,
         "hasCloudflare": 1
       }
